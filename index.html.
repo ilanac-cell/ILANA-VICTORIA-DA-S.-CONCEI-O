@@ -1,0 +1,89 @@
+ <!DOCTYPE html> 
+
+<html lang="pt-br"> 
+
+ 
+
+<head> 
+
+    <meta charset="UTF-8"> 
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+    <title>Meu Perfil - Ilana Victoria</title> 
+
+</head> 
+
+ 
+
+<body> 
+
+ 
+
+    <header> 
+
+        <img src="https://placehold.co/150x150" 
+
+             alt="Avatar de Ilana" width="100"> 
+
+ 
+
+        <nav> 
+
+            <a href="#resumo">Resumo</a> | 
+
+            <a href="#formacao">Formação</a> | 
+
+            <a href="#projetos">Projetos</a> | 
+
+            <a href="#hobbies">Hobbies</a> | 
+
+            <a href="#referencias">Referências</a> 
+
+        </nav> 
+
+    </header> 
+
+ 
+
+    <main> 
+
+ 
+
+        <h1>Ilana Victoria</h1> 
+
+ 
+
+        <section id="resumo"> 
+
+            <h2>Resumo</h2> 
+
+ 
+
+            <img src="https://placehold.co/300x150" 
+
+                 alt="Imagem de apresentação" width="200"> 
+
+ 
+
+            <p> 
+
+                Olá! Meu nome é Ilana Victoria, tenho 17 anos 
+
+                e moro em Candeias, Bahia. Sou uma pessoa 
+
+                criativa, comunicativa e gosto muito de estudar 
+
+                e aprender coisas novas. Tenho interesse por 
+
+                tecnologia e desenvolvimento de sites. 
+
+                Acredito que o conhecimento é uma das ferramentas 
+
+                mais importantes para transformar o mundo! 
+
+            </p> 
+
+        </section> 
+
+ 
